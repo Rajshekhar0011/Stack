@@ -1,12 +1,31 @@
 {
-  "name": "meanStack",
+  "name": "meanstack",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
+    "angular": "^1.6.6",
+    "body-parser": "^1.18.1",
+    "bootstrap": "^3.3.7",
+    "bower": "^1.8.2",
+    "css": "^2.2.1",
     "ejs": "^2.5.7",
-    "express": "^3.2.6"
-  }
+    "express": "^3.2.6",
+    "gulp": "^3.9.1",
+    "html": "^1.0.0",
+    "javascript": "0.0.0",
+    "jquery": "^3.2.1",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.13",
+    "request": "^2.82.0"
+  },
+  "description": "Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)\r  ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))",
+  "main": "app.js",
+  "devDependencies": {
+    "gulp-ejs": "^3.0.1"
+  },
+  "author": "rajashekhar",
+  "license": "ISC"
 }
