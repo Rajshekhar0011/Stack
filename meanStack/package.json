@@ -3,13 +3,12 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "angular": "^1.6.6",
     "body-parser": "^1.18.1",
-    "bootstrap": "^3.3.7",
-    "bower": "^1.8.2",
+    "bootstrap": "^4.0.0-alpha.4",
     "css": "^2.2.1",
     "ejs": "^2.5.7",
     "express": "^3.2.6",
@@ -18,11 +17,11 @@
     "javascript": "0.0.0",
     "jquery": "^3.2.1",
     "mongodb": "^2.2.31",
-    "mongoose": "^4.11.13",
+    "mongoose": "^4.10.8",
     "request": "^2.82.0"
   },
   "description": "Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)\r  ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))",
-  "main": "app.js",
+  "main": "server.js",
   "devDependencies": {
     "gulp-ejs": "^3.0.1"
   },
