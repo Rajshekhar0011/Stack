@@ -10,8 +10,7 @@ var routes = require('./routes');
   /*, user = require('./routes/user')*/
 /*
  * http or request modules are, Which helps to process server related requests
- * in the web ...below one calls the "http" library
- */
+ * in the web ...below one calls the "http" library*/
  var controller= require('./routes/controller');
  var database= require('./routes/database');
  var signup= require('./routes/signup-controller');
